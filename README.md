@@ -28,6 +28,10 @@
 </a> 
  <a href="https://www.github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="vscode" width="40" height="40"/> 
 </a>  
+  <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://github.com/Joebig7/Joebig7/blob/main/Idea.png" alt="vscode" width="40" height="40"/> 
+</a>  
+ 
+
 </p>
  
  
