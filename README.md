@@ -8,6 +8,13 @@
 - 🌱 I’m keeping learining something new  
 - 🥅 2021: Contribute more to Open Source projects
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joebig7&show_icons=true&theme=onedark&showicon=true)
+
+</details>
+
 ## Languages and Tools:
 <p align="left">
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
@@ -37,13 +44,6 @@
  
 
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joebig7&show_icons=true&theme=onedark&showicon=true)
-
-</details>
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
