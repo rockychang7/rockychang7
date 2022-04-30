@@ -6,7 +6,7 @@
 ## I'm doing!!
 - 🔭 I frequently use golang、java、javascript
 - 🌱 I’m keeping learining something new  
-- 🥅 2021: Contribute more to Open Source projects
+- 🥅 2022: Contribute more to Open Source projects
 
 <details>
   <summary>:zap: GitHub Stats</summary>
