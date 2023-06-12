@@ -1,5 +1,5 @@
 ### Hi,folks
 
-- The road to be a indie developer 
+- To be a indie developer 
 
 
