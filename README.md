@@ -1,3 +1,3 @@
-- To be a indie developer 
+- To be an indie developer 
 
 
