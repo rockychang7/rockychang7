@@ -1,3 +1,3 @@
-- To be an indie developer 
+- Want To be an indie developer 
 
 
