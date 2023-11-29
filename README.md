@@ -1,3 +1,3 @@
-- Want To be an indie developer 
+- a person and a computer
 
 
